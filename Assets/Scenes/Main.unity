@@ -579,7 +579,7 @@ MonoBehaviour:
   Troll: {fileID: 4519403942049721774, guid: 17e115bb4d31e39469f5d506d436e514, type: 3}
   TrollChief: {fileID: 5570876237662680456, guid: 5fb8cc2c23fc32c408fa43dc9c614e6d, type: 3}
   Player: {fileID: 1707049929}
-  IsPaused: 1
+  IsPaused: 0
 --- !u!4 &576475206
 Transform:
   m_ObjectHideFlags: 0

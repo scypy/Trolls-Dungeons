@@ -57,7 +57,7 @@ namespace TrollsAndDungeons
         public GameObject TrollChief;
 
         public GameObject Player;
-        public bool IsPaused;
+        public bool IsPaused = false;
         
 
         private readonly Vector3Int[] neighbourPositions =
