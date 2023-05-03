@@ -2,6 +2,10 @@
 
 DEMO LINK: https://youtu.be/Z5O0b94cp-U
 
+Github Link: https://github.com/ScyPy/Trolls-Dungeons
+
+Use "Main Scene" in Scenes -> Main
+
 Controls:
 WASD for movement
 
