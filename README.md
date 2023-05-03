@@ -1,5 +1,7 @@
 # Trolls-Dungeons
 
+Unity Version Used: 2021.2.7f1
+
 DEMO LINK: https://youtu.be/Z5O0b94cp-U
 
 Github Link: https://github.com/ScyPy/Trolls-Dungeons
@@ -37,6 +39,8 @@ developed with NPBehave.
 Troll chief - Only one of these will spawn.This troll is very aggressive but also slow, torches will not work against him and he will
 pursue unless you outrun him, in that case he will go back to wander. Uses a behavioural tree
 developed with NPBehave.
+
+Troll Chief and Troll uses BFS search for pathfinding.
 
 Objects:
 
