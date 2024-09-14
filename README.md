@@ -1,8 +1,6 @@
 # Trolls-Dungeons
 
-Unity Version Used: 2021.2.7f1
-
-DEMO LINK: https://youtu.be/Z5O0b94cp-U
+Unity Version: 2021.2.7f1
 
 Github Link: https://github.com/ScyPy/Trolls-Dungeons
 
